@@ -2,7 +2,7 @@ const { Telegraf, Markup } = require('telegraf');
 const axios = require('axios');
 
 // Token bot Telegram
-const token = "7216323361:AAHKLlBccpkUImdAUDiDy703C6feuaYIBhI";
+const token = "7730197492:AAGXW_XmpePDPdleQgUfCIx9ccAgJOvEMpY";
 const bot = new Telegraf(token);
 // API Key Cloudflare
 const apiKey = "95913bd422604921a1ae64c79a262cc6f402d"; //https://dash.cloudflare.com/profile/api-tokens
